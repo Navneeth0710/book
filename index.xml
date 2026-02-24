@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE library SYSTEM "book.dtd">
+<?xml-stylesheet type="text/xsl" href="book.xsl"?>
+
+
+<library>
+    <book>
+        <title>Strategic Management</title>
+        <author>John A. Pearce</author>
+        <isbn>9780133126354</isbn>
+        <publisher>McGraw Hill</publisher>
+        <edition>5</edition>
+        <price>750.00</price>
+    </book>
+
+    <book>
+        <title>Marketing Management</title>
+        <author>Philip Kotler</author>
+        <isbn>9789332557185</isbn>
+        <publisher>Pearson</publisher>
+        <edition>15</edition>
+        <price>899.50</price>
+    </book>
+
+    <book>
+        <title>Financial Management</title>
+        <author>I. M. Pandey</author>
+        <isbn>9789353161651</isbn>
+        <publisher>Vikas Publishing</publisher>
+        <edition>11</edition>
+        <price>650.00</price>
+    </book>
+
+    <book>
+        <title>Business Communication</title>
+        <author>Meenakshi Raman</author>
+        <isbn>9780199476080</isbn>
+        <publisher>Oxford University Press</publisher>
+        <edition>2</edition>
+        <price>520.75</price>
+    </book>
+
+    <book>
+        <title>Organizational Behavior</title>
+        <author>Stephen P. Robbins</author>
+        <isbn>9789353942557</isbn>
+        <publisher>Pearson</publisher>
+        <edition>18</edition>
+        <price>999.00</price>
+    </book>
+</library>
